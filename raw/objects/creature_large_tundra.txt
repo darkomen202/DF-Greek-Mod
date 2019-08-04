@@ -1,0 +1,4 @@
+creature_large_tundra
+
+[OBJECT:CREATURE]
+

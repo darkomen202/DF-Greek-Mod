@@ -1,0 +1,4 @@
+creature_mountain_new
+
+[OBJECT:CREATURE]
+
